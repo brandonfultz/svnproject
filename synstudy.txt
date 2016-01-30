@@ -59,7 +59,7 @@ by doing a svn status command
 Life of a branch
 
 How long are branches in svn supposed to exist?
-
+Until you physically delete them yourself
 
 11
 Taping it together
