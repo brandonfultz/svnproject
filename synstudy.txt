@@ -23,7 +23,7 @@ by doing a svn checkout(or co for short) [file path] command.
 Bring me my .svn!
 
 How do you create the local working environment with svn (the .svn directory)?
-
+by using a dot at the end(bash shorthand notation meaning local)
 
 5
 Adding to the chaos
