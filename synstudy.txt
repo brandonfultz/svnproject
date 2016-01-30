@@ -77,7 +77,7 @@ to be universally recognized as a safe haven for valuable data, simplicity of it
 A day in the life of svn
 
 What is a typical svn workflow?
-
+create trunk directory, active feature work is developed under branches, branch is merged into trunk and removed.
 
 14
 What were they thinking?!
