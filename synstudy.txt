@@ -71,7 +71,7 @@ by doing a svn merge [file path] command.
 We see a need!
 
 Why was svn created?
-
+to be universally recognized as a safe haven for valuable data, simplicity of its model and usage, and ability to support needs of a variety of users/projects for individuals to large corporations.
 
 13
 A day in the life of svn
