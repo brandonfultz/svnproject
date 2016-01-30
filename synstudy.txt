@@ -47,7 +47,7 @@ As many as you would like to have
 Working copy
 
 What does your local copy of a repository look like with svn?
-
+file:///home/user/svnrepos/foldername/filename
 
 9
 Status
