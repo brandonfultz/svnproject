@@ -11,7 +11,7 @@ Branches are not set up the same. svn is centralized, while git is distributed. 
 Commiting to svn
 
 How are commits handled in svn?
-
+by doing a svn commit command.
 
 3
 Checking out svn
