@@ -17,7 +17,7 @@ by doing a svn commit command.
 Checking out svn
 
 How are check outs performed in svn?
-by doing a svn checkout(or co for short) [file path] command
+by doing a svn checkout(or co for short) [file path] command.
 
 4
 Bring me my .svn!
