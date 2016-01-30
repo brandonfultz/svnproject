@@ -96,7 +96,7 @@ Great Scott!
 
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake in svn?
-
+you never go into the past. you can move to a different revision however.
 
 17
 The initial upload
