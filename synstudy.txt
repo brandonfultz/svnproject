@@ -104,7 +104,7 @@ The initial upload
 If you have an existing project and want to start tracking it with svn, how
 do you copy your existing files to the repository the first time? Does this
 create the .svn directory in your local folder?
-
+by using a svn copy command with no depth and the url with a dot at the end. then add all of the files after you have finished. it will create the .svn as long as you put that local dot at the end.
 
 18
 Local SVN
