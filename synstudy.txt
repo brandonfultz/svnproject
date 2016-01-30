@@ -29,7 +29,7 @@ by using a dot at the end(bash shorthand notation meaning local)
 Adding to the chaos
 
 How do you add files to the repository?
-
+you can do a svn add * to add all of the files
 
 6
 It’s like a tree
