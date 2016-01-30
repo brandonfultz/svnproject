@@ -65,7 +65,7 @@ Until you physically delete them yourself
 Taping it together
 
 How do you merge branches?
-
+by doing a svn merge [file path] command
 
 12
 We see a need!
