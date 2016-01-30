@@ -41,7 +41,7 @@ by using the syn copy command [file path you want to copy into new branch]
 or maybe a forest
 
 How many branches can you have at any given time?
-
+As many as you would like to have
 
 8
 Working copy
