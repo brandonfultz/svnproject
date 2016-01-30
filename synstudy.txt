@@ -53,7 +53,7 @@ file:///home/user/svnrepos/foldername/filename
 Status
 
 How do you check the status of the files you are presently working on?
-
+by doing a svn status command
 
 10
 Life of a branch
