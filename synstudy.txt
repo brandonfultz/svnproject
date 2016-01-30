@@ -5,7 +5,7 @@ Study Guide
 Git vs Svn
 
 What are the differences between git and svn?
-
+Branches are not set up the same. svn is centralized, while git is distributed. checkout is also different.
 
 2
 Commiting to svn
