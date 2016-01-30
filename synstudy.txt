@@ -117,6 +117,6 @@ For the admins
 
 Did SVN provide any difference in tools between how you do server side
 commands and client side commands?
-
+yes. I found it to be much easier. 
 
 
