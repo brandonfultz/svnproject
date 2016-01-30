@@ -89,7 +89,7 @@ reliable and safe when handling valuable data, simple to use, ability to support
 Time machine
 
 How do we view the past of a project with svn?
-
+by using the svn log command
 
 16
 Great Scott!
