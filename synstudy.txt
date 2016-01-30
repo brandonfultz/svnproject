@@ -83,6 +83,7 @@ create trunk directory, active feature work is developed under branches, branch 
 What were they thinking?!
 
 What was the design criteria for svn?
+reliable and safe when handling valuable data, simple to use, ability to support needs of individuals or large corporations.
 
 15
 Time machine
