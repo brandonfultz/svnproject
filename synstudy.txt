@@ -35,6 +35,7 @@ you can do a svn add * to add all of the files
 It’s like a tree
 
 How are branches handled in svn?
+by using the syn copy command [file path you want to copy into new branch]
 
 7
 or maybe a forest
